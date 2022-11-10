@@ -1,0 +1,10 @@
+template = ""
+rev_id = 109
+template_sha = "8916bc5dc5e4cd4e4d1dba5900f035335a8f5ffb"
+
+[replacements]
+__LICENSE__ = "LGPLv3"
+__REPO__ = "lang-tqn"
+__UND2C__ = "tqn"
+__UNDEFINED__ = "Sahaptin Tenino"
+__UND__ = "tqn"

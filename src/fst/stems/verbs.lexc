@@ -1,0 +1,8 @@
+!! Verbs
+!  -----
+!! Verbs in the Sahaptin Tenino language inflect for tense.
+
+LEXICON Verbs
+verb    Persons   ;
+
+! vim: set ft=xfst-lexc:

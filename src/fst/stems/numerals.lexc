@@ -1,0 +1,8 @@
+!! Numerals
+!  --------
+!! Numerals in the Sahaptin Tenino language describe a nuerical quantity.
+
+LEXICON Numerals
+numeral+Num:numeral    Cases   ;
+
+! vim: set ft=xfst-lexc:
