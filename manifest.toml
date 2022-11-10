@@ -1,8 +1,8 @@
-name = "Undefined"
+name = "Sahaptin Tenino"
 version = "0.1.0"
 
 [macos]
-system_pkg_id = "no.divvun.MacDivvun.und"
+system_pkg_id = "no.divvun.MacDivvun.tqn"
 
 [windows]
-system_product_code = "{REPLACE_WITH_REAL_SYSTEM_PROD_CODE}_is1"
+system_product_code = "{DF4370F6-4EEE-46D2-866D-1A724285DF5D}_is1"
