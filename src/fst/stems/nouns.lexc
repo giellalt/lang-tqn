@@ -3,6 +3,8 @@
 !! Nouns in the Sahaptin Tenino language refer to objects or sets of objects, qualities, states or ideas.
 
 LEXICON Nouns
-noun+N:noun    Cases   ;
+! mobile animates
+ám+N:ám Cases "husband/ám" ;
+
 
 ! vim: set ft=xfst-lexc:
