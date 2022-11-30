@@ -258,7 +258,9 @@ The nominals are inflected in the following Case and Number
 The possession is marked as such:
 The comparative forms are:
 Numerals are classified under:
+Verb aspects are:
 Verb moods are:
+Verb tenses are:
 Verb personal forms are:
 Other verb forms are
 
