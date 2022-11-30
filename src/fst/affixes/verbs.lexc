@@ -2,6 +2,12 @@
 !  ---------------
 !! The Sahaptin Tenino language verbs inflect in persons.
 
+LEXICON TAMs
++Fut:%>ta # ;
++Hab:%>xa # ;
++Pres+Cont:%>sha # ;
+
+
 LEXICON Persons
 +V+Inf:0    #   ;
 +V+Sg1:en   #   ;

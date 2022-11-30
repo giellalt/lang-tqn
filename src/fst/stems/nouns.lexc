@@ -4,7 +4,32 @@
 
 LEXICON Nouns
 ! mobile animates
-ám+N:ám Cases "husband/ám" ;
+am+N:ám Cases "husband/ám" ;
+ayat+N:áyat Cases "lady/" ;
+winat+N:winat Cases "deer" ;
+xniƚa+N:xniƚa Cases "digger/" ;
 
+! others
+Aʼaʼmi% ushatch+N:Aʼaʼmi% ushatch Cases "February/" ;
+alxaix+N:alxaix Cases "month/" ;
+anwicht+N:anwicht Cases "year/" ;
+chuush+N:chuush Cases "water/" ;
+hahan+N:hahán Cases "stem/" ;
+kaʼwit+N:káʼwit Cases "feast/" ;
+latitlatit+N:latitlatit Cases "celery/" ;
+ƚkwi+N:ƚkwi Cases "day/" ;
+nusux+N:nusúx Cases "salmon/" ;
+paqʼwakawas+N:paqʼwakáwas Cases "fork" ;
+suxas+N:súxas Cases "spoon/" ;
+tautnuk+N:taútnuk Cases "medicine/" ;
+tikai+N:tíkai Cases "dishes" ;
+tkwatat+N:tkwátat Cases "food; same taste, similar taste" ;
+tmaanit+N:tmáanit Cases "berries" ;
+tuksai+N:túksai Cases "cup" ;
+waipxt+N:waipxt Cases "creeks" ;
+wana+N:wana Cases "river" ;
+xamsi+N:xamsi Cases "celery that grows on top of the ground/" ;
+xapiƚmi+N:xapíƚmi Cases "knife" ;
+xnit+N:xnit Cases "root/" ;
 
 ! vim: set ft=xfst-lexc:

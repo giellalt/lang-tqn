@@ -3,6 +3,13 @@
 !! Adjectives in the Sahaptin Tenino language describe the entities nouns refer to.
 
 LEXICON Adjectives
+
+anaí+A:anaí Comparisons "last" ;
+mxsh+A:mxsh Comparisons "yellow" ;
+mxshpyát+A:mxshpyát Comparisons "green" ;
+plas+A:plas Comparisons "white" ;
+pnxuush+A:pnxuush Comparisons "first" ; 
+
 adjective    Comparisons   ;
 
 ! vim: set ft=xfst-lexc:

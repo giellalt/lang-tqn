@@ -1,0 +1,10 @@
+# File that reduces Tenino Sahaptin enriched
+# dictionary orthogrphy to ordinary orthography
+# It takes the vowels with acute accents and replaces them with regular vowels
+
+á -> a ,
+é -> e ,
+í -> i ,
+ó -> o ,
+ú -> u ;
+

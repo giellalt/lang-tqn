@@ -3,30 +3,30 @@
 !! The Sahaptin Tenino language nouns inflect in number and cases.
 
 LEXICON Cases
- +N+Sg+Abl:%>míknik   #     ;
- +N+Sg+All:%>míkan   #     ;
- +N+Sg+Ben:%>míyay   #     ;
- +N+Sg+Dat:%>míyaw   #     ;
- +N+Sg+Gen:%>mí   #     ;
- +N+Sg+Ins:%>míki   #     ;
- +N+Sg+Loc:%>mípa  #     ;
- +N+Sg+Nom:0   #     ;
- +N+Du+Abl:%>inmíknik   #     ;
- +N+Du+All:%>inmíkan   #     ;
- +N+Du+Ben:%>inmíyay   #     ;
- +N+Du+Dat:%>inmíyaw   #     ;
- +N+Du+Gen:%>inmí   #     ;
- +N+Du+Ins:%>inmíki   #     ;
- +N+Du+Loc:%>inmípa  #     ;
- +N+Du+Nom:%>in   #     ;
- +N+Pl+Abl:%>mamíknik   #     ;
- +N+Pl+All:%>mamíkan   #     ;
- +N+Pl+Ben:%>mamíyay   #     ;
- +N+Pl+Dat:%>mamíyaw   #     ;
- +N+Pl+Gen:%>mamí   #     ;
- +N+Pl+Ins:%>mamíki   #     ;
- +N+Pl+Loc:%>mamípa  #     ;
- +N+Pl+Nom:%>ma   #     ;
+ +Sg+Abl:%>míknik   #     ;
+ +Sg+All:%>míkan   #     ;
+ +Sg+Ben:%>míyay   #     ;
+ +Sg+Dat:%>míyau   #     ;
+ +Sg+Gen:%>mí   #     ;
+ +Sg+Ins:%>míki   #     ;
+ +Sg+Loc:%>pa  #     ;
+ +Sg+Nom:0   #     ;
+ +Du+Abl:%>inmíknik   #     ;
+ +Du+All:%>inmíkan   #     ;
+ +Du+Ben:%>inmíyay   #     ;
+ +Du+Dat:%>inmíyau   #     ;
+ +Du+Gen:%>inmí   #     ;
+ +Du+Ins:%>inmíki   #     ;
+ +Du+Loc:%>inmípa  #     ;
+ +Du+Nom:%>in   #     ;
+ +Pl+Abl:%>mamíknik   #     ;
+ +Pl+All:%>mamíkan   #     ;
+ +Pl+Ben:%>mamíyay   #     ;
+ +Pl+Dat:%>mamíyau   #     ;
+ +Pl+Gen:%>mamí   #     ;
+ +Pl+Ins:%>mamíki   #     ;
+ +Pl+Loc:%>mamípa  #     ;
+ +Pl+Nom:%>ma   #     ;
 
          #:0   Nouns ; ! Normally going via a R lexicon adding compound tags.
 

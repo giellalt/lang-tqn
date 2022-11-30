@@ -3,6 +3,9 @@
 !! Verbs in the Sahaptin Tenino language inflect for tense.
 
 LEXICON Verbs
+inatii+V:inatii TAMs "bloom, get ripe/" ;
+itʼtʼauwaxn+V:itʼtʼauwaxn TAMs "grow/" ;
+payaxtäta+V:payaxtäta TAMs "pour/" ;
 verb    Persons   ;
 
 ! vim: set ft=xfst-lexc:
