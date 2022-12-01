@@ -72,6 +72,14 @@ given the proper use of these flags.
 |  @U.Cap.Obl@ | Allowing downcasing of derived names: deatnulasj.
 |  @U.Cap.Opt@ | Allowing downcasing of derived names: deatnulasj.
 
+### VERBS
+* @U.Sc.Sg3@  
+* @U.Sc.Pl3@  
+* @R.Sc.Sg3@  
+* @R.Sc.Pl3@  
+* @D.Sc@  
+* @C.Sc@  
+
 The word forms in Sahaptin Tenino language start from the lexeme roots of basic
 word classes, or optionally from prefixes:
 

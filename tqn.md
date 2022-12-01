@@ -311,6 +311,14 @@ given the proper use of these flags.
 |  @U.Cap.Obl@ | Allowing downcasing of derived names: deatnulasj.
 |  @U.Cap.Opt@ | Allowing downcasing of derived names: deatnulasj.
 
+### VERBS
+* @U.Sc.Sg3@  
+* @U.Sc.Pl3@  
+* @R.Sc.Sg3@  
+* @R.Sc.Pl3@  
+* @D.Sc@  
+* @C.Sc@  
+
 The word forms in Sahaptin Tenino language start from the lexeme roots of basic
 word classes, or optionally from prefixes:
 
@@ -326,6 +334,24 @@ Adjectives in the Sahaptin Tenino language describe the entities nouns refer to.
 * * *
 
 <small>This (part of) documentation was generated from [src/fst/stems/adjectives.lexc](https://github.com/giellalt/lang-tqn/blob/main/src/fst/stems/adjectives.lexc)</small>
+
+---
+
+Adverbs
+Adverbs in the Sahaptin Tenino language describe the entities nouns refer to.
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/stems/adverbs.lexc](https://github.com/giellalt/lang-tqn/blob/main/src/fst/stems/adverbs.lexc)</small>
+
+---
+
+Conjunctors
+Conjunctors in the Sahaptin Tenino language describe the entities nouns refer to.
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/stems/conjunctors.lexc](https://github.com/giellalt/lang-tqn/blob/main/src/fst/stems/conjunctors.lexc)</small>
 
 ---
 
