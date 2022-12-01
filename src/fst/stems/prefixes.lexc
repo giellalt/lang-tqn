@@ -6,6 +6,8 @@ LEXICON Prefixes
 
 nounprefix-     Nouns   ;
 verbprefix-     Verbs   ;
+@U.Sc.Sg3@:@U.Sc.Sg3@i%< Verbs ; !ScSg3
+@U.Sc.Pl3@:@U.Sc.Pl3@pa%< Verbs ; !ScPl3
 
 
 ! vim: set ft=xfst-lexc:

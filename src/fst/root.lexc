@@ -141,12 +141,23 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
  @U.Cap.Obl@        !!≈ |  @CODE@ | Allowing downcasing of derived names: deatnulasj.
  @U.Cap.Opt@        !!≈ |  @CODE@ | Allowing downcasing of derived names: deatnulasj.
 
+!! ### VERBS
+@U.Sc.Sg3@ !!= * @CODE@ 
+@U.Sc.Pl3@ !!= * @CODE@ 
+@R.Sc.Sg3@ !!= * @CODE@ 
+@R.Sc.Pl3@ !!= * @CODE@ 
+@D.Sc@ !!= * @CODE@ 
+@C.Sc@ !!= * @CODE@ 
+
+
 LEXICON Root
 !! The word forms in Sahaptin Tenino language start from the lexeme roots of basic
 !! word classes, or optionally from prefixes:
  Nouns       ;
  Verbs       ;
  Adjectives  ;
+ Adverbs  ;
+ Conjunctors  ;
  Pronouns    ;
  Numerals    ;
  Prefixes    ;

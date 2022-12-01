@@ -1,0 +1,10 @@
+!! Adverbs
+!  ----------
+!! Adverbs in the Sahaptin Tenino language describe the entities nouns refer to.
+
+LEXICON Adverbs
+
+chauwiyat+Adv:chauwíyat # "almost" ;
+chikuuk+Adv:chikuuk # "today" ;
+
+! vim: set ft=xfst-lexc:

@@ -5,7 +5,9 @@
 LEXICON Verbs
 inatii+V:inatii TAMs "bloom, get ripe/" ;
 itʼtʼauwaxn+V:itʼtʼauwaxn TAMs "grow/" ;
-payaxtäta+V:payaxtäta TAMs "pour/" ;
+payaxta+V:payaxtá TAMs "pour/" ;
+wa+V:wa TAMs "be/" ;
+
 verb    Persons   ;
 
 ! vim: set ft=xfst-lexc:
