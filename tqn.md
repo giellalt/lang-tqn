@@ -276,6 +276,8 @@ Semantics are classified with
 
 Derivations are classified under the morphophonetic form of the suffix, the
 source and target part-of-speech.
+* **+Der/NomAg** agent V»N 
+* **+Der/NomAct** action V»N 
 
 Morphophonology
 To represent phonologic variations in word forms we use the following
