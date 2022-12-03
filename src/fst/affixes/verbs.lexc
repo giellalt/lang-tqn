@@ -5,11 +5,12 @@
 LEXICON TAMs
 +Fut:%>ta SC ;
 +Hab:%>xa SC ;
-+Pres+Cont:%>sha SC ;
++Prs+Cont:%>sha SC ;
 : SC ;
 @D.Sc@ NOT_SC "(takes to IMPRT for now)" ;
 
 LEXICON NOT_SC
++Der+Der/NomAg+N:%>ƚa Cases "(doer)" ;
 +Imprt+ScSg2:%>k # "(has stem vowel)" ;
 +Imprt+ScSg2:%>nk # "(lacks stem vowel)" ;
 +Imprt+ScPl2:%>ti # ;

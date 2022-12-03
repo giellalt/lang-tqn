@@ -103,6 +103,9 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
 !! source and target part-of-speech.
  +V→N +V→V +V→A
  +Der/xxx
+ +Der
++Der/NomAg   !!≈ * **@CODE@** agent V»N 
++Der/NomAct   !!≈ * **@CODE@** action V»N 
 
 
 !! Morphophonology

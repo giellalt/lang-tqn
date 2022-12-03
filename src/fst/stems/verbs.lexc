@@ -5,7 +5,6 @@
 LEXICON Verbs
 auna+V+Aux:áuna # "let's/" ;
 awa+V:áwa TAMs "exist, have/" ;
-awalptaikawasha+V:awalptaikáwa TAMs "sing/" ;
 awititamasha+V:awititámasha TAMs "count/" ;
 ititamasha+V:ititáma TAMs "count/" ;
 inatii+V:inatii TAMs "bloom, get ripe/" ;
@@ -20,6 +19,8 @@ shaputʼshksha+V+Imprt+ScSg2:ashapútʼshknk # "blow out/" ;
 tkwatasha+V:tkwata TAMs "eat/" ;
 wa+V:wa TAMs "be (Copula)/" ;
 wa+V+Ind+Prs+ScSg1:aswa # "be (Copula)/" ;
+walptaikasha+V:walptaik TAMs "sing/" ;
+awalptaikawasha+V:awalptaikáwa TAMs "sing/" ;
 
 
 verb    Persons   ;
