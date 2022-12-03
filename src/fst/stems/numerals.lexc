@@ -3,9 +3,17 @@
 !! Numerals in the Sahaptin Tenino language describe a nuerical quantity.
 
 LEXICON Numerals
-naxsh+Num:naxsh Cases ;
+naxsh+Num:naxsh Cases "one/" ;
+napt+Num:napt Cases "two/" ;
+mtaat+Num:mtaat Cases "three/" ;
+pinapt+Num:pinapt Cases "four/" ;
+paxat+Num:páxat Cases "five/" ;
+ptxninsh+Num:ptxninsh Cases "six/" ;
+tuskaski+Num:túskaski Cases "seven/" ;
+paxatʼmaat+Num:paxatʼmáat Cases "eight/" ;
+cʼmst+Num:cʼmst Cases "nine/" ;
+putmt+Num:pútmt Cases "ten/" ;
+naaptit+Num:náaptit Cases "twenty/" ;
 
-
-numeral+Num:numeral    Cases   ;
 
 ! vim: set ft=xfst-lexc:

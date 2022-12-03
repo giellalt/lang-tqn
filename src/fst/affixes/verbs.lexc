@@ -7,6 +7,12 @@ LEXICON TAMs
 +Hab:%>xa SC ;
 +Pres+Cont:%>sha SC ;
 : SC ;
+@D.Sc@ NOT_SC "(takes to IMPRT for now)" ;
+
+LEXICON NOT_SC
++Imprt+ScSg2:%>k # "(has stem vowel)" ;
++Imprt+ScSg2:%>nk # "(lacks stem vowel)" ;
++Imprt+ScPl2:%>ti # ;
 
 LEXICON SC
 @R.Sc.Sg3@ SCSG3 ;

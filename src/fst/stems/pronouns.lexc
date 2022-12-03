@@ -3,6 +3,8 @@
 !! Pronouns in the Sahaptin Tenino language are words that may replace nouns or refer to participants in the conversation.
 
 LEXICON Pronouns
+shi+Pron+Gen:shimín # "whose/" ;
+
 pronoun    Cases   ;
 
 ! vim: set ft=xfst-lexc:

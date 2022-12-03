@@ -3,10 +3,24 @@
 !! Verbs in the Sahaptin Tenino language inflect for tense.
 
 LEXICON Verbs
+auna+V+Aux:áuna # "let's/" ;
+awa+V:áwa TAMs "exist, have/" ;
+awalptaikawasha+V:awalptaikáwa TAMs "sing/" ;
+awititamasha+V:awititámasha TAMs "count/" ;
+ititamasha+V:ititáma TAMs "count/" ;
 inatii+V:inatii TAMs "bloom, get ripe/" ;
 itʼtʼauwaxn+V:itʼtʼauwaxn TAMs "grow/" ;
-payaxta+V:payaxtá TAMs "pour/" ;
-wa+V:wa TAMs "be/" ;
+payaxta+V:payaxtá TAMs "pour/" ;!checkme
+shapalaqaixisha+V:shapalaqáixi TAMs "turn on the lights/" ;
+shapalaqaixisha+V+Imprt+ScSg2:ashapalaqáixik # "turn on the lights/" ;
+shapatʼshksha+V:shapatʼshk TAMs "turn out/" ;
+shapatʼshksha+V+Imprt+ScSg2:ashapatʼshknk # "turn out/" ;
+shaputʼshksha+V:shapútʼshk TAMs "blow out/" ;
+shaputʼshksha+V+Imprt+ScSg2:ashapútʼshknk # "blow out/" ;
+tkwatasha+V:tkwata TAMs "eat/" ;
+wa+V:wa TAMs "be (Copula)/" ;
+wa+V+Ind+Prs+ScSg1:aswa # "be (Copula)/" ;
+
 
 verb    Persons   ;
 

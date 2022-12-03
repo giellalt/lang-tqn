@@ -4,7 +4,12 @@
 
 LEXICON Adverbs
 
-chauwiyat+Adv:chauwíyat # "almost" ;
-chikuuk+Adv:chikuuk # "today" ;
+anchʼa+Adv:ánchʼa # "many/" ;
+chauwiyat+Adv:chauwíyat # "almost/" ;
+chikuuk+Adv:chikuuk # "today/" ;
+mƚ+Adv:mƚ # "how many/" ;
+mƚnam+Adv:mƚnam # "how/" ;
+palalai+Adv:palalái # "more/" ;
+tƚʼina+Adv:tƚʼina # "??" ;
 
 ! vim: set ft=xfst-lexc:

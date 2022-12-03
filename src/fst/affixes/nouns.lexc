@@ -4,12 +4,13 @@
 
 LEXICON Cases
  +Sg+Abl:%>knik   #     ;
+ +Sg+Acc:%>na   #     ;
  +Sg+All:%>míkan   #     ;
  +Sg+Ben:%>míyay   #     ;
  +Sg+Dat:%>míyau   #     ;
  +Sg+Gen:%>mí   #     ;
  +Sg+Ins:%>míki   #     ;
- +Sg+Loc:%>pa  #     ;
+ +Sg+Loc:%>pa  #  "both loc and target"   ;
  +Sg+Nom:0   #     ;
  +Du+Abl:%>inmíknik   #     ;
  +Du+All:%>inmíkan   #     ;
@@ -27,6 +28,7 @@ LEXICON Cases
  +Pl+Ins:%>mamíki   #     ;
  +Pl+Loc:%>mamípa  #     ;
  +Pl+Nom:%>ma   #     ;
++ScSg1:%>nash # "copula with numbers";
 
          #:0   Nouns ; ! Normally going via a R lexicon adding compound tags.
 
