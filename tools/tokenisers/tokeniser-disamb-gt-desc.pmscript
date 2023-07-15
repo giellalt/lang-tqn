@@ -67,7 +67,7 @@ Define alphabet "a-z" !! * lower-case ASCII
                |Lst({àáâãāăȧäảåǎȁȃąạḁæǽǣèéêẽēĕėëẻěȅȇẹȩęḙḛìíîĩīīĭi̇ïỉǐịįȉȋḭɨòóôõōŏȯöỏőǒȍȏơǫọɵøờớỡởợǭộǿœùúûũūŭüủůűǔȕȗưụṳųṷṵừứữửựʉỳýŷỹȳẏÿỷƴỵɏÀÁÂÃĀĂȦÄẢÅǍȀȂĄẠḀÆǼǢÈÉÊẼĒĔĖËẺĚȄȆẸȨĘḘḚÌÍÎĨĪĪĬİÏỈǏỊĮȈȊḬƗÒÓÔÕŌŎȮÖỎŐǑȌȎƠǪỌƟØỜỚỠỞỢǬỘǾŒÙÚÛŨŪŬÜỦŮŰǓȔȖƯỤṲŲṶṴỪỨỮỬỰɄỲÝŶỸȲẎŸỶƳỴɎšžčđðíŋňŧñńŠŽČĐÐÍŊŇŦÑ})
                !! * select extended latin symbols
                | "0-9" !! ASCII digits
-               | Lst({_§°†}) !! * select symbols
+               | Lst({_§°†ʼƚȽłŁ}) !! * select symbols
                !! * Combining diacritics as individual symbols,
                ! to be able to analyse unknown words with
                ! decomposed diacritics. All combining diacritics
