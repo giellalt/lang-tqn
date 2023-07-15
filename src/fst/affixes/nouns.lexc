@@ -35,7 +35,7 @@ LEXICON CASES_PL_MA
  +Pl+Loc:%>mamípa  #     ;
  +Pl+Nom:%>ma   #     ;
 
-         #:0   Nouns ; ! Normally going via a R lexicon adding compound tags.
+!         #:0   Nouns ; ! Normally going via a R lexicon adding compound tags.
 
 ! vim: set ft=xfst-lexc:
 
