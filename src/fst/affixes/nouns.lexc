@@ -2,7 +2,10 @@
 !  ---------------
 !! The Sahaptin Tenino language nouns inflect in number and cases.
 
-LEXICON Cases
+LEXICON CASES_AND_PL_MA
+ CASES ;
+ CASES_PL_MA ;
+LEXICON CASES
  +Sg+Abl:%>knik   #     ;
  +Sg+Acc:%>na   #     ;
  +Sg+All:%>míkan   #     ;
@@ -20,6 +23,9 @@ LEXICON Cases
  +Du+Ins:%>inmíki   #     ;
  +Du+Loc:%>inmípa  #     ;
  +Du+Nom:%>in   #     ;
++ScSg1:%>nash # "copula with numbers";
+
+LEXICON CASES_PL_MA
  +Pl+Abl:%>mamíknik   #     ;
  +Pl+All:%>mamíkan   #     ;
  +Pl+Ben:%>mamíyay   #     ;
@@ -28,7 +34,6 @@ LEXICON Cases
  +Pl+Ins:%>mamíki   #     ;
  +Pl+Loc:%>mamípa  #     ;
  +Pl+Nom:%>ma   #     ;
-+ScSg1:%>nash # "copula with numbers";
 
          #:0   Nouns ; ! Normally going via a R lexicon adding compound tags.
 
