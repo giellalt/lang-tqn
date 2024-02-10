@@ -17,6 +17,7 @@ The Usage extents are marked using following tags:
 The nominals are inflected in the following Case and Number
 
 The possession is marked as such:
+
 The comparative forms are:
 Numerals are classified under:
 Verb aspects are:
@@ -81,6 +82,8 @@ given the proper use of these flags.
 * @R.Sc.Pl3@  
 * @D.Sc@  
 * @C.Sc@  
+
+wac NOUNS
 
 The word forms in Sahaptin Tenino language start from the lexeme roots of basic
 word classes, or optionally from prefixes:
