@@ -35,7 +35,7 @@ GT_LEXC_ROOT=$(srcdir)/root.lexc
 GT_LEXC_SRCS_L1_L2=\
 			 affixes/adjectives.lexc  \
 			 affixes/nouns.lexc       \
-			 prefixes/prefixes.lexc      \
+			 affixes/prefixes.lexc      \
 			 affixes/propernouns.lexc \
 			 affixes/symbols.lexc     \
 			 affixes/verbs.lexc       \
