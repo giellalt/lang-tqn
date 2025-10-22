@@ -5,6 +5,7 @@
 [![License](https://img.shields.io/github/license/giellalt/lang-tqn)](https://github.com/giellalt/lang-tqn/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-tqn)](https://github.com/giellalt/lang-tqn/issues)
 [![Build Status](https://builds.giellalt.org/api/badge/lang-tqn?label=CI)](https://builds.giellalt.org/pipelines/lang-tqn/builds/latest)
+[![Glottolog](https://img.shields.io/badge/Glottolog-green)](https://glottolog.org/resource/languoid/id/__GLOTTOLOG_ID__)
 
 This page documents the work on the **Sahaptin Tenino language model**. 
 
